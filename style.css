@@ -161,6 +161,7 @@ body {
 
 /* FOOTER */
 .attribution {
+      padding: 1rem 0;
   font-size: 11px;
   text-align: center;
 }
